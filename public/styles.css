@@ -44,6 +44,12 @@
   z-index: 3;
 }
 
+.parallax__layer--title {
+  -webkit-transform: translateZ(-250px) scale(2);
+  transform: translateZ(-250px) scale(2);
+  z-index: 3;
+}
+
 .parallax__layer--deep {
   -webkit-transform: translateZ(-600px) scale(3);
   transform: translateZ(-600px) scale(3);
