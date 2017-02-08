@@ -120,7 +120,7 @@ li{
   margin-left: auto;
   margin-right: auto;
 }
-a:link{
+a:link, a:visited{
   color: black;
 }
 .about{
