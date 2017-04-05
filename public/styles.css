@@ -124,10 +124,13 @@ a:link, a:visited{
   color: black;
 }
 .about{
-  width: 50%;
+  width: 60%;
   font-size: .75em;
   font-weight: 100;
-  text-align: left;
+  text-align: justify;
+}
+*{
+  line-height: 1.5em;
 }
 img{
   height: 100%;
